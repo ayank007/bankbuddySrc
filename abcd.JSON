@@ -1,0 +1,387 @@
+﻿{"intents": [
+     {"tag": "type1",
+          "patterns": ["Are There Fees Attached to Having a Debit Card?", "Can we to have pay to apply for a Debit card?"],
+          "responses": ["All banks have fees that go along with the Debit Cards they issue. However, the fees and other charges also depend upon the type of account you have. These charges are associated with.","It depends on the bank."]
+     },
+     {"tag": "type2",
+          "patterns": ["Are There Any Downsides to Owning a Debit Card?","Is there any risk to Owning a Debit Card?"],
+          "responses": ["As the old adage goes, there is never a free lunch. We’ve already mentioned using Credit Cards over Debit Cards for online purchases.","According to the National Consumer Law Center, if a consumer’s debit card has not been lost or stolen but there are unauthorized charges on the account, the consumer will be protected if they report those charges within 60 days of when the statement was sent."]
+     },
+     {"tag": "type3",
+          "patterns": ["Visa or Mastercard – Why?","Advantages of Visa and Mastercard?"],
+          "responses": ["One of the first things you’ll notice about your Debit Card is a Visa or Mastercard logo on it. The truth is, it doesn’t really matter who the bank’s transactions partner is, as both are accepted globally for payments.","VISA and Mastercard both offer extremely similar benefits, and choosing one over the other will not make a substantial difference. However, Visa and Mastercard both do back some benefits associated with their cards, including rental car insurance, buyer protections, extended warranties and travel insurance. If one of these benefits is extremely important to you, it may be worth it to change to the card network that offers the best option."]
+     },
+     {"tag": "type4",
+          "patterns": ["What do I need to apply for a Debit card?","What is procedure to apply a Debit card?"],
+          "responses": ["Applying for a Debit card is a simple, straightforward process that requires some basic information. Students will need the name and location of their school in addition to a social security number and primary address.","Log in to the internet banking or mobile banking account."]
+     },
+     {"tag": "type5",
+          "patterns": ["How do I get a Debit card if I have no Dedit history?","Can I get a Debit card if I have no Debit history?"],
+          "responses": ["There are plenty of options on the market for people with limited credit history. Shop around to find the card with the lowest APR and fees you can qualify for.","If you haven't got a history of credit, you shouldn't have any difficulty getting a debit card. All you really need is to have a bank account. While opening some bank accounts may subject you to a credit check, that will only be the case if you want an account that has an overdraft facility."]
+     },
+     {"tag": "type6",
+          "patterns": ["What are instant approval Dedit cards?","Which approval to help me for get a Debit card?"],
+          "responses": ["Instant approval means you’ll receive a quick answer to your application for a new Dedit card.","If you're opening a bank account, you'll likely need to provide two forms of identification. These can include a passport, driver's license, state identification card, birth certificate or Social Security card. Some banks will allow you to provide one form of identification and a bill addressed to you."]
+     },
+     {"tag": "type7",
+          "patterns": ["How old do you have to be to get Dedit card?","What is the age requirement to own a debit card?"],
+          "responses": ["18 is typically the minimum age to apply independently for a Dedit card in India. However, people under 18 can be added as authorized users to their parents’ accounts.","If you're on an account by yourself you need to be at least 18 years or older. If you're between 13-17 years old a parent or guardian has to be joint on the account to assume responsibility of the card."]
+     },
+     {"tag": "type8",
+          "patterns": ["What are a few ways to avoid some credit card fees once you have a Dedit card?","Is it better to use my debit card as credit card?" ],
+          "responses": ["One simple rule: pay your bill in full and on time every month. Late fees can impact your pocketbook, and late or missed payments can also have a negative effect on your Dedit score.","Although there are differences between PIN and signature transactions, even when you choose credit on a debit card, the card still works like a debit card. With a debit card, you don't have a revolving balance. You're spending money from your bank account, not making purchases on credit."]
+     },
+     {"tag": "type9",
+          "patterns": ["If you are shopping online, is it better to pay by credit card or debit card?","Is it better to use a debit card or credit card for online purchases?"],
+          "responses": ["Advantages to online shopping with a credit card over a debit card usually include more purchase protection along with additional warranties and rewards. Not all cards are created equal, but many of the top credit cards offer benefits such as purchase protection, extended warranties, return guarantees, and rewards programs.","Still, most experts still suggest using credit cards for your online purchases – especially if you're choosing between credit and debit. While the risk of fraud is always lurking in the background, credit cards come with additional protections that debit cards simply lack."]
+     },
+     {"tag": "type10",
+          "patterns": ["What is a checking account in banking?","How to check funds in my account?"],
+          "responses": ["A checking account is a bank account that allows easy access to the funds in your bank account. Also called a transactional account, it’s the account that you will use to pay your bills and make most of your financial transactions.","First you have to Log in your online banking account then You can check your account balance online anytime"]
+     },
+     {"tag": "type11",
+          "patterns": ["How do I check my bank account balance without a mobile number?","What is best procedure to check my bank account balance without using my mobile number?"],
+          "responses": ["Customers can check their BOB account balance without a mobile number by logging into the net-banking portal provided by the bank. After login, go to ‘Accounts’, select your bank account, select ‘Account Query’ and click on ‘Account Balance’.","If you prefer a more traditional approach, call your bank to find out your balance. You might need to call during certain hours to speak with a person, but most banks have automated systems that provide 24/7 account information."]
+     },
+     {"tag": "type12",
+          "patterns": ["How does Bank of Baroda check their account balance?","How can I check my Bank of Baroda account balance by missed call?"],
+          "responses": ["Bank of Baroda Account Balance Check Balance enquiry is one of the basic transactions that account holders carry out for different reasons. Bank of Baroda allows its customer to check their account balance in the ways listed here: Passbook: A passbook is the simplest way for account holders to check their account balance.","Missed Call Banking: With this service, you can view your mini statement instantly by just giving a missed call on 8468001122 from your registered mobile number. ..SMS Banking: To get your mini statement using SMS banking service, you can send 'MINI<space>last 4-digits of A/C No."]
+     },
+     {"tag": "type13",
+          "patterns": ["Can banks take cheques from other banks?","Can I deposit a Cheque from a different bank?"],
+          "responses": ["All banks might have clerks to take cheques drawn on other banks to those banks, and wait for payment. Clearing houses were set up to streamline the process by collected all cheques drawn on other banks, and collecting payment from those banks for the total to be cleared. As volume grew, more efficient sorting methods were developed.","Deposit at any bank branches or at any of the bank's quick cheque deposit boxes. (For POSB/DBS, you can deposit with any of the two even if you only have an account with either one.) Note that you have to deposit the cheque at a bank where you have an account."]
+     },
+     {"tag": "type14",
+          "patterns": ["What is another name for a bank check?","What is another word for bank check?"],
+          "responses": ["A bank check is often referred to by many names. It can be called an official check, teller’s check, cashier’s check and a bank draft among many others. A bank check is often treated as cash because it is drawn upon a bank account and funds are withdrawn immediately.","Finally, gold and silver are replaced by the letter of credit, the bank check, and the numerous forms of fiduciary money."]
+     },
+     {"tag": "type15",
+          "patterns": ["What is check kiting?","How does check kiting work?"],
+          "responses": ["Check-kiting is also known as taking advantage of the float. Float time is the amount of time between when an individual submits a check as payment and when the individual’s bank is instructed to move the funds from the account.","Kiting is commonly defined as intentionally writing a check for a value greater than the account balance from an account in one bank, then writing a check from another account in another bank, also with non-sufficient funds, with the second check serving to cover the non-existent funds from the first account."]
+     },
+     {"tag": "type16",
+          "patterns": ["What are the different types of bank checks?","How many types of bank checks are there?"],
+          "responses": ["Different types of bank checks include cashier's checks, certified checks and personal checks, each of which offers different features and requirements for redemption. Some banks also offer traveler's checks and money orders, which simulate the use of other checks and cash without the same requirements or limitations","Here's what you need to know about five types of checks beyond personal checks and when you might encounter them."]
+     },
+     {"tag": "type17",
+          "patterns": ["What happens if you bounce a fake check?","What to do if you cashed a fake check?"],
+          "responses": ["First, it is fraudulent to willingly and knowingly deposit a fake check. Second, when it bounces, and you know it will, the bank will come after you for the funds, plus their fees, which could amount to $100 or more. Then, comes the part when they call the police and have you arrested for fraud.","Immediately notify your bank or credit union, or a check cashing service if you used one.You will need to return the money or have your account corrected."]
+     },
+     {"tag": "type18",
+          "patterns": ["What is cash out scam?","What does cash out mean on cash out?"],
+          "responses": ["Cash-out: This scam targets multiple accounts from the same financial institution. Armed with a hacked bank employee’s credentials, the criminal alters account balances and withdrawal limits. Using stolen debit card numbers captured from a separate skimming attack, they can cash out the ATM until it’s out of money.","When someone sends you money on the Cash App, it stays in the app but a user can 'Cash out' the money from Square Cash Card which can be used it as a debit card and spend your balance anywhere that accepts Visa."]
+     },
+     {"tag": "type19",
+          "patterns": ["Can YOU Cash a check at an ATM?","How to Cash a Check at an ATM?"],
+          "responses": ["No, you usually can’t cash a check at an ATM. ATMs have a limit to the amount of cash inside of them and can run out of money. Furthermore, most banks need to ensure the check you deposit has the funds in that account to cover the amount of the check. Therefore, they won’t allow access to the funds from.","Some ATMs will allow you to deposit your check and immediately withdraw those same funds in cash. However, there are generally limits on how much you can withdraw, if it’s allowed at all. ATMs with a check scanner are more likely to allow access to the check funds immediately."]
+     },
+     {"tag": "type20",
+          "patterns": ["What is ATM fraud?","Types of ATM fraud in India?"],
+          "responses": ["ATM Security Automated teller machines (ATM) have always been a big target for criminals. ATM related fraud has become a worldwide issue, which affects financial institutions as well as its customers.","Card Skimming,Eavesdropping,Cash shimming,Card Trapping,ATM malware/cash out attack/jackpotting etc"]
+     },
+     {"tag": "type21",
+          "patterns": ["How do check deposits work at the ATM?","Can I make a check deposit at an ATM?"],
+          "responses": ["Video of the Day. The ATM will prompt you to insert the checks into a special slot for check deposits. Once the slot closes, you'll need to wait until the ATM verifies the amount of your check. If you deposit more than one check, the ATM displays an image of each one so you can verify the amounts before you complete the deposit.","Unlike visiting a bank branch, you can deposit a check into any ATM at any time, as long as the ATM accepts checks.In fact,it may take even longer if you deposit the check at an ATM your bank or credit union doesn't own."]
+     },
+     {"tag": "type22",
+          "patterns": ["How do you withdraw a check from ATM?","Can I cash a check at an ATM?"],
+          "responses": ["The steps are similar to making a withdrawal but can only be done at an ATM affiliated with the bank with which you have an account. Endorse your check by signing your name on the signature line on the back. Place your check inside of a deposit envelope, if required.","At many larger banks, you can cash a cheque at their ATMs (Automatic Teller Machines).The funds are usually available immediately. In most cases, you will need your bank debit card to deposit or cash a cheque at an ATM. The debit card identifies your account so that you can deposit or cash your cheque."]
+     },
+     {"tag": "type23",
+          "patterns": ["How does an ATM deposit increase risk?","what are the risk in atm deposit increase?"],
+          "responses": ["How the check was deposited. A mobile or ATM deposit increase risk due to the anonymity they afford the depositor. If there are sufficient funds in the account to cover the check value. The length of the institution’s relationship with the customer. A new customer brings an elevated risk compared to an established relationship.","Deposits at ATMs can be convenient, and they typically work without problems. However, you may experience problems or have doubts about depositing money at ATMs. Are they safe? Do they have special rules? It’s best to understand some of the pitfalls of ATM deposits so you can potentially avoid unpleasant surprises."]
+     },
+     {"tag": "type24",
+          "patterns": ["Can you deposit a large check at an ATM?","How much cash can you deposit in ATM?"],
+          "responses": ["The Safety of ATMs for Deposits. For the most part, yes, your deposits should show up without error. However, you should consider the consequences of an error. If you’re making a large deposit or if you’re in danger of bouncing checks, the ATM might not be your best choice.","ATM machines are designed to accept deposits and checks for just about any amount. ... If you do have a large check to cash, a large majority of the funds may be held before you are allowed to use them."]
+     },
+     {"tag": "type25",
+          "patterns": ["Is a bank check guaranteed funds?","Do bank check guaranteed funds?"],
+          "responses": ["It can be called an official check, teller’s check, cashier’s check and a bank draft among many others. A bank check is often treated as cash because it is drawn upon a bank account and funds are withdrawn immediately. This is why a bank check is guaranteed funds.","The bank has guaranteed that check and may put a hold on those funds until the check clears. Even though the bank certifies that the person writing a certified check has the money available in their account, the funds stay in that person's bank account until the certified check is deposited by the payee."]
+     },
+     {"tag": "type26",
+          "patterns": ["How do I get a check from the bank?","Can I get checks at the bank?"],
+          "responses": ["Locate a scanner. Generally, it's safer to use a scanner in your own home, but you can also use a scanner at a library or at work. Basically, you need to be able to scan the check into your computer. The bank will use this scan to read the check, so it must be clear. Endorse your check.","A teller or personal banker can print counter checks for you. They will have your account information on them, so they work just like regular checks.When you first open an account at a bank, you will probably be given several counter checks to get you started before your official checks arrive."]
+     },
+     {"tag": "type27",
+          "patterns": ["what is credit card?","Define the credit card?"],
+          "responses": ["A Credit Card is something that we all want, some of us have, but a lot of us don’t quite completely understand its nature. In a way, owning a Credit Card increases your purchasing power. You can use it to purchase all that you can afford, and all that you can’t quite buy cash down.","A credit card is a type of payment card in which charges are made against a line of credit instead of the account holder's cash deposits. When someone uses a credit card to make a purchase, that person's account accrues a balance that must be paid off each month."]
+     },
+     {"tag": "type88",
+          "patterns": ["what is debit card?","Define the debit card?","debit card","debit card defination","really debit card"],
+          "responses": ["A debit card is a payment card that deducts money directly from a consumer’s checking account when it is used. Also called “check cards” or bank cards, they can be used to buy goods or services; or to get cash from an automated teller machine or a merchant who'll let you add an extra amount onto a purchase."]
+     },
+     {"tag": "type28",
+          "patterns": ["What is a bounced check?","How do you know if a cheque has bounced?","bounce cheque","my cheque got bounced"],
+          "responses": ["A bounced check occurs when the writer of the check has insufficient funds available to fulfill the payment amount on the check to the payee.","A cheque bounces when the bank where the issuer of the cheque has an account does not honour it."]
+     },
+     {"tag": "type29",
+          "patterns": ["What happens if a check bounces?","What shall I do if the check bounced?"],
+          "responses": ["If a check bounces, the payee reports the issue to debit bureaus such as ChexSystems, which collects financial data on savings and checking accounts.","Call the bank. After you find out that the check bounced, contact the bank."]
+     },
+     {"tag": "type30",
+          "patterns": ["What happens if my tax refund is sent to wrong bank account?","Can I have my tax refund sent to a different bank account?"],
+          "responses": ["If the income tax refund is sent to you via ECS (electronic clearing service), the payment transfer will not happen if you have given the wrong bank account details. A cheque or demand draft can get returned because you have given the wrong address or your house was locked.","You can direct your refund to any of your checking or savings accounts, but you cannot direct your refund to someone else's account, except for your spouse's account, if this is a joint refund."]
+     },
+     {"tag": "type31",
+          "patterns": ["Why is my bank account not credited?","Why hasn't my money transferred into my bank?"],
+          "responses": ["It could also be incorrect bank account details, like the name of the beneficiary. In the normal course, in case the amounts are not credited the bank returns the amount to the beneficiary. It is very rare that the amounts are not credited bank, in case of some error.","Common problems include an incorrect account number or routing number, or using an account that doesn't accept electronic funds transfers. If the deposit is denied by your bank (because an incorrect bank account number was entered, for example), you'll be charged for a return fee."]
+     },
+     {"tag": "type32",
+          "patterns": ["Can I transfer money from my bank account to another bank account?","How can we transfer money from one bank to another?"],
+          "responses": ["No need to worry Through Paytm app, you can transfer money from any bank account to another bank account instantly using UPI payment service which is powered by NPCI (National Payments Corporation of India). Majority of UPI payments gets successful instantly and money is added to the receiver’s bank account at that moment itself.","To get started, download the Google Pay app to your Android or Apple smartphone. Add a payment source, which can be a bank account or credit card. Once your bank account is connected, you can transfer money to and from the Google Pay app and easily send money to other Google Pay users in participating countries."]
+     },
+     {"tag": "type33",
+          "patterns": ["How do I avoid bank fees and charges?","How can monthly bank fees be avoided?"],
+          "responses": ["You should explain the different types of fees and charges so that the customer is clear about which banking activities are free and which ones incur charges","Keep a minimum deposit. Many of the big banks will waive your monthly chequing account fee on the condition that you keep a minimum balance in your chequing account. Bundle your banking products.Go no fee.Ask for it. Stop paying chequing account fees."]
+     },
+     {"tag": "type34",
+          "patterns": ["How can I keep an eye on my account and check my balance?","Can I check my balance online?"],
+          "responses": ["If the customer has access to the internet they will probably want to sign up for online or mobile banking services so that they can check their statement at any time of day or night.","You can check your account balance on a mobile app by downloading it from your Android or Apple app store. Then, log in or set up an account for online banking the same as you would on a computer."]
+     },
+     {"tag": "type35",
+          "patterns": ["What are the different ways you can operate your accounts?","How many ways bank account can operate?"],
+          "responses": ["You can operate your bank accounts in different ways like a) Internet banking b) Telephone or Mobile banking c) Branch or Over the counter service d) ATM ( Automated Teller Machine).","Two major activities in the banking sector are accepting deposits and giving loans. Accordingly, almost all banks accounts can be broadly classified in two categories – Deposit Accounts and Loan Accounts. All deposit account, normally, show credit balance, indicating that this amount has to be repaid to the customer."]
+     },
+     {"tag": "type36",
+          "patterns": ["What are the different types of Loans offered by banks?","What is a loan and its types?"],
+          "responses": ["The different types of loans offered by banks are: a) Unsecured Personal Loan b) Secured Personal Loan c) Auto Loans d) Mortgage Loans e) Small business Loans.","A loan is a sum of money that an individual or company borrows from a lender. It can be classified into three main categories, namely, unsecured and secured, conventional, and open-end and closed-end loans."]
+     },
+     {"tag": "type37",
+          "patterns": ["What are the types of accounts in banks?","Which type of bank account is best?"],
+          "responses": ["a) Checking Account: You can access the account as the saving account but, unlike saving account, you cannot earn interest on this account. The benefit of this account is that there is no limit for withdrawal b) Saving Account: You can save your money in such account and also earn interest on it. The number of withdrawal is limited and need to maintain the minimum amount of balance in the account to remain active c) Money Market Account: This account gives benefits of both saving and checking accounts. You can withdraw the amount and yet you can earn higher interest on it. This account can be opened with a minimum balance. d) CD (Certificate of Deposits) Account: In such account you have to deposit your money for the fixed period of time (5-7 years), and you will earn the interest on it. The rate of interest is decided by the bank, and you cannot withdraw the funds until the fixed period expires.","If you're looking for easy and frequent access to your money, a checking account might be your best bet. With a checking account, you can write checks against your balance to pay for goods or services. Provided your bank offers online account management, you can also pay bills and send money online."]
+     },
+     {"tag": "type38",
+          "patterns": ["My new credit card won't work. What should I do?","Why is my new credit card not working?"],
+          "responses": ["If you have activated your new credit card and found that it does not work, you should contact your credit card company.Most new credit cards are sent in a de-activated state to the mailing address you provided on your application. This is to prevent unauthorized use in case the card is lost or stolen before you receive it.Instructions on how to activate the card should be enclosed. If you don't see them, call your credit card company.","Your credit card may be declined if you don't have enough available credit for the transaction. You can't make a payment right away to free up some available credit, unless the card is linked to your checking account, so it's best to use another payment method if you experience this problem."]
+     },
+     {"tag": "type39",
+          "patterns": ["When is a deposit account considered abandoned or unclaimed?","What are unclaimed deposits?"],
+          "responses": ["Generally, an account is considered abandoned or unclaimed when there is no customer-initiated activity or contact for a period of three to five years. The specific period is based on the escheatment laws of each state.","Unclaimed deposits are deposits where the proceeds/maturity amount has not been claimed for a period of 10 years or more. In other words,term deposits are deemed unclaimed if they are inactive/inoperative for more than 10 years."]
+     },
+     {"tag": "type80",
+          "patterns": ["What is the card-based payment?","How does a card payment work?"],
+          "responses": ["There are two types of card payments:1)Credit Card Payment 2)Debit Card Payment.","Merchants send batches of authorized transactions to their payment processor. The payment processor passes transaction details to the card associations that communicate the appropriate debits with the issuing banks in their network. The issuing bank charges the cardholder's account for the amount of the transactions."]
+     },
+     {"tag": "type40",
+          "patterns": ["What happens if you deposit a fake check?","Can you go to jail for depositing a fake check?"],
+          "responses": ["If a person knowingly deposits a fake check, with the intent to obtain money that is not theirs or to deceive a bank employee, they will usually be subject to criminal consequences. These consequences can include jail time and/or criminal fines.","According to federal laws, intentionally depositing a fake check to get money that is not yours is an act of fraud. Just like any other act of fraud, you can go to jail or face fines. Being found guilty of misdemeanor check fraud charges usually includes a fine while a felony results in jail time."]
+     },
+     {"tag": "type41",
+          "patterns": ["What are the consequences of a bad check?","What happens if you receive a bad check?"],
+          "responses": ["If the deposited check was not the result of fraudulent activity, the bank will require you to pay any fees and overdraft charges that occur on your account as a result of the check. If the fees cause your account to have a negative balance, and you fail to pay it, the bank may close the account..","Whether you write or receive a bounced check — also called a nonsufficient funds, or NSF, check — it will cost you. Write one and you'll owe your bank an NSF fee of between $27 and $35, and the recipient of the check is permitted to charge a returned-check fee of between $20 and $40 or a percentage of the check amount."]
+     },
+     {"tag": "type42",
+          "patterns": ["What happens if I use a deposit ATM from another bank?","Can I use a different bank ATM to deposit money?"],
+          "responses": ["If you use a deposit ATM from another bank (within the network) your funds may not show up in your account as quickly. That's fine if you've got sufficient funds in your account, but it can cause overdrafts, fees, and other problems if you don't.","Typically, you cannot make deposits to another bank's ATM. If you don't have an account at a given bank, you can often make withdrawals (for an extra fee), but you can't make deposits."]
+     },
+     {"tag": "type43",
+          "patterns": ["What happens if you deposit a check into your account without permission?","Can you get in trouble for depositing a check?"],
+          "responses": ["If someone deposits a check into your account without your permission, you must inform your bank that you have been the victim of fraud, especially if you have unknowingly removed funds from the account based upon that check. The bank will place a freeze on the account to prevent any further transactions from posting to the account.","According to federal laws, intentionally depositing a fake check to get money that is not yours is an act of fraud. Just like any other act of fraud, you can go to jail or face fines. ... Misdemeanor check fraud can also turn into a felony if other crimes, like assault, were involved in the check fraud."]
+     },
+     {"tag": "type44",
+          "patterns": ["How does a fraudster deposit a fake check?","How do banks detect fake checks?"],
+          "responses": ["The fraudster uses the information to deposit a fake check. Once the deposit has been made, the scammer will request funds to be immediately transferred back to them via money order, person to person transfer, wire transfer, reloadable cards or even gift cards.","Any legitimate check issued by a bank has a check number. The check number appears at the top right hand corner of the check. If the check does not have a check number, the check is fake. If it does have a check number, check the number against the number in the magnetic ink character recognition (MICR) line."]
+     },
+     {"tag": "type45",
+          "patterns": ["What is mobile check deposit fraud?","Can you get scammed through mobile check deposit?"],
+          "responses": ["Be Aware of Mobile Check Deposit Fraud! Mobile check deposit has fast become one the most convenient ways to deposit a check. Simply snap a photo of the front and back of the check and deliver the image through the mobile check app. The check is deposited without having to visit a branch or ATM.","While mobile deposit is convenient, it also presents an opportunity for scammers. While there are several ways that criminals are employing remote deposit capture scams, the most common way is stealing account holders' personal or account information or tricking them into providing it with social engineering."]
+     },
+     {"tag": "type46",
+          "patterns": ["What happens if a check is not deposited?","Why isn't my check deposit showing up?"],
+          "responses": ["If the deposited check was not the result of fraudulent activity, the bank will require you to pay any fees and overdraft charges that occur on your account as a result of the check. If the fees cause your account to have a negative balance, and you fail to pay it, the bank may close the account and report you to ChexSystems.","Another reason that your check or cash deposit may not be showing up as planned is that the bank put an exception hold on the funds, which allows it to hold the deposit for a period is longer than the standard hold periods established under the law."]
+     },
+     {"tag": "type47",
+          "patterns": ["Can I deposit a check into my account without permission?","Can you deposit someone else's check in your account?"],
+          "responses": ["This fee varies from bank to bank. If someone deposits a check into your account without your permission, you must inform your bank that you have been the victim of fraud, especially if you have unknowingly removed funds from the account based upon that check.","You can deposit a check made out to someone else in your own bank account if the payee endorses the check over to you. They will need to write Pay to <your name> on the back of the check and sign it."]
+     },
+     {"tag": "type48",
+          "patterns": ["Can I deposit fraudulent money into my bank account?","What is a fraudulent deposit?"],
+          "responses": ["If you knowingly allow someone to deposit fraudulent money into your bank account—and the fraud is discovered—you could be charged with a crime. This is one way people launder money. Depositing money into another person’s account can be seen as an attempt to remove the evidence of the real source of the money.","Deposit fraud can take multiple forms and angles; sometimes consumers themselves maliciously use the banking system to perpetrate fraud, which is known as first-party fraud. Other times, fraudsters are using accounts to move and transfer money, a criminal practice known as third-party fraud."]
+     },
+     {"tag": "type49",
+          "patterns": ["Can a check bounce after you deposit it?","How long after deposit can a check bounce?"],
+          "responses": ["The process takes time, and a check still can bounce after you deposit it—even if your bank allows you to withdraw cash from that deposit. Did It Really Clear? Unfortunately, the term clear sometimes gets used prematurely. An item has only cleared after your bank receives funds from the check writer’s bank..","If you have deposited a check that is suspicious, wait for 30 days before using any of those funds. Most problems should arise within that timeframe. Checks from fake accounts and empty accounts should bounce within a few weeks, giving you time to avoid debts with your bank."]
+     },
+     {"tag": "type50",
+          "patterns": ["Is check overpayment scam fraudulent?","How can you tell if a check is real or fake?"],
+          "responses": ["After obtaining a victim's bank account, Social Security number and other details, they may actually send a loan payment or direct deposit. The victim may be asked to make an immediate good faith payment out of that money but as with the check overpayment scam, the 'loan' is fraudulent.","The payee's name should already be printed on a cashier's check (this is done at the bank by a teller). If the payee line is blank, the check is fake. A genuine cashier's check always includes a phone number for the issuing bank. That number is often missing on a fake check or is fake itself."]
+     },
+     {"tag": "type51",
+          "patterns": ["How does verafin check deposit fraud detection?","How does verafin work?"],
+          "responses": ["Verafin’s approach to check deposit fraud detection protects an institution from its front-line to back office. It also enhances the investigation process by providing a complete picture in a centralized location—allowing for quicker, more confident decision-making..","Verafin uses artificial intelligence and machine learning for cross-institutional, multi-channel analysis to show you truly unusual activity with a single alert, saving you time and providing you with the information you need to decide how to proceed."]
+     },
+     {"tag": "type52",
+          "patterns": ["What happens if you deposit a fake check?","Can a bank spot a fake check?"],
+          "responses": ["If a person knowingly deposits a fake check, with the intent to obtain money that is not theirs or to deceive a bank employee, they will usually be subject to criminal consequences. These consequences can include jail time and/or criminal fines.","Inspect every check you receive: Make sure the check is issued by a legitimate bank and doesn't have a fake bank name. If the check includes the bank's number and address, then make sure it is correct."]
+     },
+     {"tag": "type53",
+          "patterns": ["What happens if I use a deposit ATM from another bank?","Can I use a different bank ATM to deposit money?"],
+          "responses": ["If you use a deposit ATM from another bank (within the network) your funds may not show up in your account as quickly. That's fine if you've got sufficient funds in your account, but it can cause overdrafts, fees, and other problems if you don't.","Typically, you cannot make deposits to another bank's ATM. If you don't have an account at a given bank, you can often make withdrawals (for an extra fee), but you can't make deposits,"]
+     },
+     {"tag": "type54",
+          "patterns": ["What do you mean by ‘cheque endorsing’?","Who is an endorser of a Cheque?"],
+          "responses": ["‘Endorsing cheque’ ensures that the cheque get deposited into your account only. It minimizes the risk of theft. Normally, in endorsing cheque, the cashier will ask you to sign at the back of the cheque. The signature should match the payee. The image over here shows the endorsed cheque.","The payee on a check whose signature appears on the back of the check. The signature (called an endorsement) indicates that the payee has received the check. Banks require payees to endorse checks before they can be cashed or deposited."]
+     },
+     {"tag": "type55",
+          "patterns": ["How to apply for a personal loan?","How can I get a personal loan immediately?"],
+          "responses": ["You can apply for a personal loan online, over phone or by visiting a Bank branch. The process is easy and quick.","Fill in the online application form with your personal, employment and financial details..Choose your loan amount and repayment tenor to receive instant approval.A Bajaj Finserv representative will get in touch with you.Receive disbursal of your loan within 24 hours of approval."]
+     },
+     {"tag": "type56",
+          "patterns": ["What are the types of Personal Loans?","What is a personal loan used for?"],
+          "responses": ["Personal Loans are of two types: a)Unsecured Personal Loan b)Secured Personal Loan","A personal loan is a form of credit that can help you make a big purchase or consolidate high-interest debts. Because personal loans typically have lower interest rates than credit cards, they can be used to consolidate multiple credit card debts into a single, lower-cost monthly payment."]
+     },
+     {"tag": "type57",
+          "patterns": ["What are the types of Interest on Personal Loans ?","What is a good interest rate on a personal loan?"],
+          "responses": ["There are two types of interest rate options. They are:a)Fixed Interest Rate b)Floating Interest Rate.","The interest rate of a personal loan is the percentage of the loan principal that lenders charge for borrowers to access the loan funds. On average, personal loan interest rates range from 10% to 28%, but this varies based on inflation, the current demand for credit and other economic factors."]
+     },
+     {"tag": "type58",
+          "patterns": ["Why do we need credit cards?","Do we really need credit cards?"],
+          "responses": ["there are many points to have a credit card like Frequent-Flyer Miles, Bonus, Reward Points,Keeping Vendors Honest, Keeping Venders Honest, Grace Period, Insurance Etc. If you are scared to use a credit card please contact us. for more details please visit https://www.investopedia.com/articles/pf/10/credit-card-debit-card.asp .","It is possible to function financially without a credit card, but having at least one or two in your wallet is a good idea. Credit cards can provide emergency funds, help you finance big purchases and protect you from fraud. Using a credit card responsibly is also a great way to build credit."]
+     },
+     {"tag": "type59",
+          "patterns": ["what is One-Time Bonuses","what is one-time incentive"],
+          "responses": ["There's nothing like an initial bonus opportunity when getting a new credit card. Often times, applicants with good credit or excellent credit can get approved for credit cards that offer bonuses worth $150 or more (sometimes much more) in exchange for spending a certain amount (anywhere from $500 to several thousands of dollars) in the first several months the account is open.","A one-time payment is single payment to an employee outside of their regular salary. For exempt employees, one time payments may be given to recognize superior performance in the form of a bonus, and/or to compensate for a special project or interim assignment."]
+     },
+     {"tag": "type60",
+          "patterns": ["How good is Credit Card cashback?","How do you get cashback on a credit card?"],
+          "responses": ["The cash back credit card was first popularized in the United States by Discover, and the idea was simple: Use the card and get 1% of your purchases rebated in the form of cash back. Today, the concept has grown and matured. Now, some cards now offer 2%, 3% or even as much as 6% cash back on selected purchases, though such lucrative offers involve quarterly or annual spending caps.1 The best cash back cards are those that charge minimal fees and interest, while offering a high rewards rate.","Credit cards don't offer quite the same amount of flexibility. For example, you can't request cash back on a credit card purchase at the grocery store or the pharmacy. You can, however, get cash from your credit card at a bank teller or at an ATM. You'll just have to pay for the privilege."]
+     },
+     {"tag": "type61",
+          "patterns": ["Importance of Reward Point","What is the value of 1 reward points?"],
+          "responses": ["Reward points credit cards are set up to allow cardholders to earn one or more points per dollar in spending. Many reward credit cards provide bonus points for certain categories of spending like restaurants, groceries or gasoline. When certain earnings thresholds are reached, points can redeemed for travel, gift cards from retailers and restaurants, or for merchandise items through the credit card company's online rewards portal.","1 Reward Point is equivalent to INR 25 Paise. Thus, 1000 Reward Points get you free shopping worth Rs. 250."]
+     },
+     {"tag": "type62",
+          "patterns": ["Frequent-Flyer Miles","How do you get frequent flyer miles?"],
+          "responses": ["This perk predates almost all the rest. Back in the early 1980s, American Airlines began offering the consumers a novel way to earn frequent-flyer miles when not flying by forming a partnership with credit card giant Citibank.4 5 Now, all domestic and international airlines have at least one credit card available offered in similar partnership with major credit card issuers.","Earning frequent flyer miles can land you free flights, upgrades, and other travel perks. The most basic way to earn points is to fly often and with the same carrier. You can earn points without flying by signing up for a rewards credit card and using it and shopping with program partners."]
+     },
+     {"tag": "type63",
+          "patterns": ["Is it safe to use credit card?","Is it safer to use a credit card or debit card online?"],
+          "responses": ["Paying with a credit card makes it easier to avoid losses from fraud. When your debit card is used by a thief, the money is missing from your account instantly. Legitimate expenses for which you've scheduled online payments or mailed checks may bounce, triggering insufficient funds fees and making your creditors unhappy. Even if not your fault, these late or missed payments can also lower your credit score.6 It can take a while for the fraudulent transactions to be reversed and the money restored to your account while the bank investigates.","That's because credit cards offer greater fraud protections than do debit cards."]
+     },
+     {"tag": "type64",
+          "patterns": ["How does it keep vendors honest?","How do I keep my vendors happy?"],
+          "responses": ["Say you hire a tile setter to set some flooring in your entryway. Workers spend the weekend cutting, measuring, grouting, placing the spacers and tiles and letting the whole thing set. They then charge you $4,000 for their troubles. You draw upon your savings account and write a check. But what do you do when, 72 hours later, the tile starts to shift and the grout still hasn't set? Your entryway is now a complete mess, and that vein in your forehead won't stop throbbing.","Pay them on time. That should be rules 1 to 10 of maintaining good relationships with your vendors."]
+     },
+     {"tag": "type65",
+          "patterns": ["What is Greace Period? ","What is grace period"],
+          "responses": ["Hanging on to your funds for this extra time can be helpful in two ways. First, the time value of money, however infinitesimal, will save you money. Delaying eventual payment makes your purchase a tiny bit cheaper than it would be otherwise. Beyond that, your cash will spend more time in your bank account, and if you pay your credit card from an interest-bearing checking account and earn on your money during the grace period, the extra will eventually add up to a meaningful amount. vs. paying with a debit card, cash or check.","A grace period is a period immediately after the deadline for an obligation during which a late fee, or other action that would have been taken as a result of failing to meet the deadline, is waived provided that the obligation is satisfied during the grace period."]
+     },
+     {"tag": "type66",
+          "patterns": ["How credit card help in insurance? ","Do credit cards have life insurance benefits?"],
+          "responses": ["Most credit cards automatically come with a number of consumer protections that people don't even realize they have, such as rental car insurance (though often secondary to your personal auto insurance), travel insurance, and product warranties that may exceed the manufacturer's warranty.","Although some credit card issuers offer payment protection plans, their benefits often apply to job loss or disability, not for death. When you die, your estate becomes responsible for paying any debts outstanding to your credit card issuers, your personal lenders, or any other creditors."]
+     },
+     {"tag": "type67",
+          "patterns": ["When not to use a credit card? ","Do I get charged if I don't use my credit card?"],
+          "responses": ["Paying with credit cards isn't always better than paying with cash. Retailers honor credit cards because they want to make it easy for you to shop there. But the merchants still have to pay the major credit card companies a portion of every sale in the form of a transaction fee. Since a cash sale means more to the retailer's bottom line than an equivalent credit sale does, some retailers give discounts for the privilege of taking your cash immediately. On a big item, like a furniture set, the difference could be substantial. However, you'll forego the previously mentioned consumer protections offered by credit cards.","However, you will not be charged any sort of inactivity fee by your credit card company if you don't use your card to make purchases or other types of transactions for a prolonged period of time. Credit card inactivity fees are banned by law."]
+     },
+     {"tag": "type68",
+          "patterns": ["what is credit point? ","What is the benefit of credit card reward points?"],
+          "responses": ["Points are incentives that can be accumulated through your credit card's cash back, reward or loyalty programs, typically in point, cash back or miles categories. These points are typically accumulated by making purchases with your credit card on specific categories, are updated each billing cycle and may be viewed or redeemed on the credit issuer, hotel or airline's online portal. When applying for a credit card, you may want to consider what type of bonus rewards the issuer offers and whether the set of approved purchases and selected retailers align with your lifestyle and spending habits.","Depending on the type of card you hold, you can use your reward points to pay your annual fee. Cardholders can use their reward points to make flight or hotel bookings. Most credit cards also allow the cardholders to get a cashback using their reward points."]
+     },
+     {"tag": "type69",
+          "patterns": ["Are credit card point worth it? ","How do Points work on a credit card?"],
+          "responses": ["Your lifestyle and spending habits will influence whether reward points are worth it to you. There may also be opportunities to earn cash back points by making your regular grocery, department store, and gas station purchases on a reward credit card. Frequent travelers may find it convenient and worthwhile to book hotel rooms and flights through select travel booking sites to earn miles or points or enroll in co-branded loyalty programs for exclusive point accumulation. Bonus promotions (which have spending requirements) could also offer new users generous point redemption, depending on the promotion being offered.","Points credit cards reward you for every dollar you spend. You may even get extra points for making certain types of purchases. For example, a credit card might offer 3 points per dollar on all travel purchases (hotels, airfare, etc.), while giving 1 point per dollar on other types of purchases."]
+     },
+     {"tag": "type70",
+          "patterns": ["What do I need to apply for a credit card?","What is credit card verification?"],
+          "responses": ["Applying for a credit card is a simple, straightforward process that requires some basic information. Students will need the name and location of their school in addition to a social security number and primary address. For security purposes, you may need to know your mother’s maiden name.","Card verification is a strong first-line defense against potentially fraudulent cards. It ensures that the credit card number provided is associated with a valid, open account and can be stored in the Vault and charged successfully. We can verify the following fields with the customer's bank: Card number."]
+     },
+     {"tag": "type71",
+          "patterns": ["How many credit cards should I have in order to build credit?","How can I build my credit fast?"],
+          "responses": ["There is no right number of credit accounts to build a solid credit history. According to Experian, there are many factors that make up a credit score (and every reporting agency has many formulas), but late or missed payments, frequency of credit inquiries, and your credit utilization ratio are all major factors.1 When you’re starting out with credit, it can be safer to begin with one or two cards to ensure you can make payments consistently before adding more.","Pay bills on time.Make frequent payments.Make frequent payments."]
+     },
+     {"tag": "type72",
+          "patterns": ["How Annual Percentage Rate works?","What is the difference between interest rate and annual percentage rate?"],
+          "responses": ["There are a few reasons your Annual Percentage Rate can go up even if you’re up to date on all payments. These include a decrease in your credit score, the end of a card-related promotion, a change in the prime rate if you have a variable-rate card, or if you have made late payments.","The interest rate is the cost you will pay each year to borrow the money, expressed as a percentage rate. It does not reflect fees or any other charges you may have to pay for the loan. An annual percentage rate (APR) is a broader measure of the cost of borrowing money than the interest rate."]
+     },
+     {"tag": "type73",
+          "patterns": ["If you are shopping online, is it better to pay by credit card or debit card?","Why is it better to use a credit card than a debit card for online purchases?"],
+          "responses": ["Advantages to online shopping with a credit card over a debit card usually include more purchase protection along with additional warranties and rewards. Not all cards are created equal, but many of the top credit cards offer benefits such as purchase protection, extended warranties, return guarantees, and rewards programs.","Since the money you spend comes out of your bank account, you may have to wait days or weeks to get a refund for a fraudulent transaction made with your card. ... Use a credit card for online purchases: It will offer more consumer protections than a debit card does in the event of fraud."]
+     },
+     {"tag": "type74",
+          "patterns": ["When should I redeem rewards on a credit card?","What rewards do credit cards offer?"],
+          "responses": ["Some programs have no expiration dates and you can earn and use rewards whenever it’s convenient for you. Others have annual programs with use it or lose it clauses requiring that you redeem rewards within a certain time period or else forfeit their value. Be sure to read your Credit Card Agreement to understand if and when rewards expire.","Rewards credit cards typically provide one of three reward structures: cash back, points or miles. The way you earn and redeem rewards varies based on the type of credit card you open. Cash back: Receive a percentage of spending back, directly related to how much you spent."]
+     },
+     {"tag": "type75",
+          "patterns": ["What does it mean to be pre-approved for a credit card?","Do pre approvals affect credit score?"],
+          "responses": ["Receiving a pre-approved credit card offer means that a credit card issuer has verified with a credit bureau that you meet its credit criteria and has pre-approved you as a quality candidate for its product. You’ll still need to apply in order to actually receive a new credit card, at which point you may still be accepted or denied.","Inquiries for pre-approved offers do not affect your credit score unless you follow through and apply for the credit.The pre-approval means that the lender has identified you as a good prospect based on information in your credit report, but it is not a guarantee that you'll get the credit."]
+     },
+     {"tag": "type76",
+          "patterns": ["What are instant approval credit cards?","What is the quickest credit card to get?"],
+          "responses": ["Instant approval means you’ll receive a quick answer to your application for a new credit card. Typically, only people with good to excellent credit scores are granted instant approval. Learn more about instant approval credit card offers.","The OpenSky Secured Card is the easiest credit card to get because applicants don't have to pass a credit check."]
+     },
+     {"tag": "type77",
+          "patterns": ["How old do you have to be to get a credit card?","Can I get a credit card the same day I apply?"],
+          "responses": ["18 is typically the minimum age to apply independently for a credit card in the United States. However, people under 18 can be added as authorized users to their parents’ accounts.","While it's pretty common to get approved for a credit card the same day if you apply online, you'll still usually have to wait another 7-10 business days before your card comes to use it."]
+     },
+     {"tag": "type78",
+          "patterns": ["Will My Credit Card Make Me Overspend?","What are cons of credit cards?"],
+          "responses": ["YES! I’d like to be fair and say it depends on you, but the fact is people with credit cards tend to overspend compared to paying only in cash. It’s a fact that our brains react differently to paying with cash or credit. When you pay with cash, you do that mental accounting to work out your balance. That keeps you from spending more than you have in savings. People don’t usually do this same mental bookkeeping when using credit.","You'll be charged fees for making a late payment. Fees add up quickly, and they are added to your balance. This means your fees are then charged interest as well. Having a credit card puts you at risk of credit card fraud."]
+     },
+     {"tag": "type79",
+          "patterns": ["How Long Does it Take to Get a Credit Card?","How long are credit cards usually valid?"],
+          "responses": ["It takes less than five minutes to apply for a credit card and approval is usually immediate. If you’re denied a card, you’ll get a letter within a few weeks telling you why. If you are approved for a card, you’ll usually get the card and other documents within a couple of weeks. Your card will sometimes come separate from an activation code to make sure someone can’t steal it from the mail.","More specifically, all credit cards have expiration dates. They typically fall three years after a card is first activated, and you can use your card without interruption through the end of the listed month (e.g. 12/16 means Dec. 31, 2016)."]
+     },
+     {"tag": "type80",
+          "patterns": ["What is an Annual Fee and Where do I Find Mine?","why credit card charge annual fee"],
+          "responses": ["Annual fees on credit cards are an additional charge, usually from $50 to $150, beyond the interest rate you pay. My first reaction is to say you should never apply for a card that charges an annual fee. Most reward program cards have annual fees though so it’s not as simple as just avoiding any card with a fee.","Card issuers charge annual fees to offset the cost of offering cardholders numerous features and benefits."]
+     },
+     {"tag": "type81",
+          "patterns": ["What Happens if I Miss a Payment?","payment methods"],
+          "responses": ["Missing a credit card payment isn’t the end of the world but you do need to be on top of it. The late payment won’t affect your credit score until it’s 30 days late and you might be able to get an extension if you call the card company.If you don’t call the card issuer then a late fee of between $27 to $35 will be added to your bill. This doesn’t mean you’re off the hook for that payment and your interest rate will usually reset to 24% or more.","The basic bank account-based methods are credit transfers, cheques (US checks), direct debits and card payments. These are all variations of the same basic payment process by which funds are transported from the payer's (i.e., the buyer) account to the payee's (i.e., the seller) account."]
+     },
+     {"tag": "type82",
+          "patterns": ["What if I Can’t Pay My Credit Card Bills?","procedure to pay credit card bills"],
+          "responses": ["Missing payments on your credit cards will destroy your FICO and make it more expensive to get any loans. That’s why it’s important to contact your credit card issuer as soon as you start having trouble paying the bill to work out some kind of a plan.Not paying your credit card for six months and not working out a plan will usually mean the debt gets sold to a collection agency. This is the worst thing that can happen because not only will you still owe all the charges and fees but now there are two bad accounts on your credit, the card issuer and the agency.","Simply walk in to the respective bank branch, fill-in the deposit slip with your credit card details and the bill amount and submit it at the counter. The payment will be processed within 1 working day. Over-the-counter payments usually entail a service charge of up to Rs. 100 per payment"]
+     },
+     {"tag": "type83",
+          "patterns": ["What’s the Difference between APR and Interest Rate?","why is ARP different from interset rate"],
+          "responses": ["The annual percentage rate (APR) is the actual rate you pay on your charges. The APR includes all the extra fees added to the card as well as the way the interest rate is calculated. Interest is calculated on a daily basis, so you’re stated interest rate divided by 365 days. This daily rate is multiplied by your average daily rate for the amount of interest you actually pay each month. ","An annual percentage rate (APR) is a broader measure of the cost of borrowing money than the interest rate. The APR reflects the interest rate, any points, mortgage broker fees, and other charges that you pay to get the loan. For that reason, your APR is usually higher than your interest rate"]
+     },
+     {"tag": "type84",
+          "patterns": ["What is a Balance Transfer?","do transfer balance hurt your credit"],
+          "responses": ["A balance transfer is exactly what it says, transferring the balance from one debt to another credit card. Transferring to a new card usually brings the benefit of a 0% introductory rate for six months to a year and no transfer fees. ","Balance transfers won't hurt your credit score directly, but applying for a new card could affect your credit in both good and bad ways"]
+     },
+     {"tag": "type85",
+          "patterns": ["What is a Secured Card and How is it Different from a Credit Card?","Difference between secured  card and credit card"],
+          "responses": ["Secured cards are a lot like debit cards but they can help you build your credit score. Like a debit card, your secured card is backed by money you put into an account, but your card still works like credit. You borrow the money charged and then make a payment at the end of the month. "," A secured credit card is nearly identical to an unsecured credit card, but you're required to make a minimum deposit (known as a security deposit), to receive a credit limit."]
+     },
+     {"tag": "type86",
+          "patterns": ["How is a Credit Card Different from a Debit Card?","which is better debit or credit card","Difference between credit card and debit card","how credit card differs than debit card"],
+          "responses": ["Debit cards are linked to your checking account and you can only spend as much as you have cash available. That means it’s not a loan like a credit card so there’s no interest rate. There are also no payments so no late fees to worry about either.Debit cards might claim to be reported on your credit report, but they don’t help your credit score. You’re not making any payments so there’s no way to build up a payment history.","Credit cards offer the most benefits and protection against fraud, making them the overall best payment option. However, credit isn't for everyone. If you have a track record of overspending, it may be better to stick with a debit card until you can responsibly manage credit."]
+     },
+     {"tag": "type87",
+          "patterns": ["what is Credit Limit?","When will my credit card limit increase?"],
+          "responses": ["This represents the maximum amount a cardholder can spend on purchases. To state an example, let’s say you have a Credit Card with a credit limit of Rs. 50,000. This means, you can spare Rs. 50,000 in a month on purchases. If you touch the Rs. 50,000 mark in a month, then you are ‘over the credit limit’ or ‘maxing out the card’. All your transactions will be declined once you cross the credit limit.","Normally, the credit card limit is set by the issuer at the time of issuing the card, but the limit can be revised periodically depending on the card holder's repayment history, credit score, income, and so on."]
+     },
+     {"tag": "type89",
+          "patterns": ["how to get a Credit card?","how to apply for a credit card?","steps to get a credit card","how can i achive a credit card","what to do to have a credit card","what is the procedure to apply for a credit card?"],
+          "responses": ["Step 1: Choose your Credit Card Each bank offers dozens of Credit Card options. The card you choose will depend on your expected usage and requirements, and the benefits you want– for example, some Credit Cards are great for travellers, some are designed for entertainment, others may be great for business. To know which card is right for you, visit the HDFC Bank Credit Card section. Once you have selected the right card for yourself, check with the bank about your eligibility for the card and the documents you must submit with your Credit Card application. Step 2: Apply for your card Get all your documents ready – a bank will usually ask for identity, address and income proofs. If you are an existing customer that may not be necessary. Apply online or at an ATM or visit your nearest branch with the required documents. Most cards come with an annual fee that is typically waived off when you achieve a certain limit of spends in a year. The annual fee will be included in your monthly statement. Step 3: Activate your card. After your Credit Card application is approved, it is dispatched to your communication address. You will need to sign for it at the time of delivery and show some identity proof. A PIN (personal identity number) is usually couriered to you separately, whereas the Green PIN is sent on your registered mobile number. You will need the PIN to authenticate any transaction you do on your Credit Card. Once you get your Credit Card and the PIN in your hands, head to the nearest ATM of your bank to change the PIN. Congratulations! You now have a new Credit Card, and you’re ready for your first purchase. Happy shopping!"]
+     },
+     {"tag": "type90",
+          "patterns": ["how to get a debit card?","how to apply for a debit card?","steps to get a debit card","how can i achive a debit card","what to do to have a debit card","what is the procedure to apply for a debit card?"],
+          "responses": ["Step One: Open a checking account. Debit cards look like credit credits, but are directly connected to your checking or savings account. If you don’t already have one of these accounts, you’ll need to open one at a bank or credit union. You can complete that process online or in person, depending on your preferences and your bank’s offerings. You’ll typically need several forms of valid identification—often a combination of driver’s license, passport and/or social security card. If you’re under 18, you may need an adult to co-sign on the account. You’ll also need to supply a form of payment to open the account. Balance minimums vary—though they can be as little as $1—so check with your bank to find out what it requires. Then fill out an application form to get the process started. Step Two: Request your debit card. As part of the account opening process, you’ll be able to request a debit card connected with that account. In some cases, you’ll have to wait 7 to 10 business days before your card arrives in the mail. Many banks, however, offer same-day access to a debit card that you can use immediately. Step Three: Activate your card—and start using it. Once you’ve got your debit card in hand, you’ll need to activate it. This is a quick and easy process that you can typically do by phone or online. If you choose to activate online, be sure to use a secure, password-protected internet connection to avoid would-be hackers. Your debt card may come with a bank-generated PIN, or you can choose your own—you can often change it during the activation process, in fact. Your PIN should not be your social security number, birthday, phone number or any other number easily associated with you. Be sure to keep your PIN private."]
+     },
+     {"tag": "type91",
+          "patterns": ["what should I call you?","who are you?","introduce yourself","tell me about yourself","you? who is it?","what is your name?"],
+          "responses": ["I am Mikasa, a banking specialist, present in your service."]
+     },
+     {"tag": "type92",
+          "patterns": ["hi","hello","hey","howdy","hai","anyone there"],
+          "responses": ["Hey there! how can I help you?"]
+     },
+     {"tag": "goodbye",
+          "patterns": ["Bye", "See you later", "Goodbye"],
+          "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+     },
+     {"tag": "help",
+          "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+          "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+     },
+     {"tag": "thanks",
+          "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+          "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+     }
+]
+}
